@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="bot">Diat Plan Bot</string>
+    <string name="fatig">Will you get fatigue easily ?</string>
+    <string name="fever">Do you get Fever frequently ?</string>
+    <string name="fungal">Any Fungal Infection ?</string>
+</resources>
